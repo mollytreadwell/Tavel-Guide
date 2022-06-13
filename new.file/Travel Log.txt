@@ -1,0 +1,16 @@
+
+<html>
+<h1> Best Places to Vacation in July around New England</h1>
+<body>
+<li>Wellfleet, Massachusetts</li>
+<img src="wp4222997.jpg/>
+<p>Awesome beaches!</p>
+<li> Lincold, New Hampshire</li>
+<img src="lincoln.jpg/>
+<p> Great hiking!</p>
+<li> Burlington, Vermont</li>
+<img src="Burlington-VT.jpg/>
+<p> Plenty of dining options and outdoor activities!</p>
+<li> There are so many options in the Northeast for fun and adventure this summer!</li>
+</body>
+</html>
